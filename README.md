@@ -18,7 +18,7 @@
 
 ###
 
-<img align="right" height="390" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5nNjU5NGxiZGN2MHN2YzhvamJheThjNmtvbjE2dWV5MHFka3U5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif"  />
+<img align="right" height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5nNjU5NGxiZGN2MHN2YzhvamJheThjNmtvbjE2dWV5MHFka3U5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif"  />
 
 ###
 
@@ -43,8 +43,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=anuusz&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuusz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=anuusz&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuusz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
