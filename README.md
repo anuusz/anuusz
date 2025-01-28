@@ -1,12 +1,12 @@
-<h3 align="center">Piuw Piuw water gun is ready!<br>I`m Stefanus Eclesio, one of the lost boys from Neverland.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=48&duration=2500&color=004687&vCenter=true&width=1080&lines=Piuw+Piuw;I%60m+Stefanus+Eclesio%2C+one+of+the+lost+boys+from+Neverland.)](https://git.io/typing-svg)
 
 ###
 
-<p align="center">💼 Gunadarma University • Backend Dev<br>    💻 WebDev • Django, Vue<br>    🎮 Drill, LoFi • Action, Mystery<br>    🐾 Caramel Macchiato • Molly</p>
+<p align="left">💼 Gunadarma University • Backend Dev<br>    💻 WebDev • Django, Vue<br>    🎮 Drill, LoFi • Action, Mystery</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuusz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=anuusz&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
